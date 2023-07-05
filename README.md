@@ -5,7 +5,6 @@ Welcome to **Thematic Learning with ChatGPT**, an innovative project that levera
 ## 📝 Table of Contents
 
 - [Thematic Learning with ChatGPT 📚🤖](#thematic-learning-with-chatgpt-)
-  - [📝 Table of Contents](#-table-of-contents)
   - [🎈 Introduction ](#-introduction-)
   - [Example (1): Cameron Potter, Professor Codewand, and the Conjuring of Sentiment](#example-1-cameron-potter-professor-codewand-and-the-conjuring-of-sentiment)
   - [Example 2: Cameron Potter Learns Python](#example-2-cameron-potter-learns-python)
